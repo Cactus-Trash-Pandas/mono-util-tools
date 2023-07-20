@@ -1,0 +1,19 @@
+{
+  "name": "@cactus-trash-pandas/mono-util-tools",
+  "version": "0.0.1",
+  "description": "Monorepo tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cactus-Trash-Pandas/mono-util-tools.git"
+  },
+  "author": "retrojb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cactus-Trash-Pandas/mono-util-tools/issues"
+  },
+  "homepage": "https://github.com/Cactus-Trash-Pandas/mono-util-tools#readme"
+}
